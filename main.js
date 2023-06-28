@@ -37,6 +37,6 @@ document.getElementById("languageInput").addEventListener("input", () => {
 
     let answer = document.getElementById("languageInput").value;
     let count = answer.length;
-    let language_string = `You like ${answer}. That takes ${count} characters.`;
+    let language_string = `Your favorite team(s) are ${answer}. That takes ${count} characters.`;
     document.getElementById("insightsOutput").innerText = language_string;
 });
