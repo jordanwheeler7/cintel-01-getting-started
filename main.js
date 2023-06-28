@@ -28,7 +28,7 @@ document.getElementById("nameInput").addEventListener("input", () => {
     TODO: Keep the ${user}, but change the rest of the string to a greeting of your choice.
     */
     let user = document.getElementById("nameInput").value;
-    let welcome_string = `Greetings ${user}!`;
+    let welcome_string = `Hello ${user}! Let's have some fun!`;
     document.getElementById("welcomeOutput").innerText = welcome_string;
 });
 
