@@ -46,7 +46,7 @@ header {
 .sidebar {
   flex: 1;
   padding: 10px;
-  background-color: #0400ff;
+  background-color: #558cdd;
   transition: background-color 0.5s ease;
   /* Gradual change when the color changes */
 }
