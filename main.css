@@ -90,12 +90,5 @@ input[type=text] {
 /* When we click on an input element, it gets the 'focus' - change the border color */
 
 input[type=text]:focus {
-  border: 2px solid #007BFF;
-
-  body {
-    background-image: url(https://marvel-b1-cdn.bc0a.com/f00000000041628/ix-cdn.b2e5.com/images/41628/41628_7786524e8cfd4a278b452e6e8ff45251_1653409575.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
+  border: 2px solid #007BFF;  
 }
