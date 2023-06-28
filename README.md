@@ -1,6 +1,6 @@
 # Continuous Intelligence and Interactive Analytics - Getting Started
 
-- GitHub Pages Website: [cintel-01-getting-started](https://jordanwheeler7.github.io/cintel-01-getting-started)
+- GitHub Pages Website: [cintel-01-getting-started](https://jordanwheeler7.github.io/cintel-01-getting-started/)
 - GitHub Repository: [cintel-01-getting-started](https://github.com/jordanwheeler7/cintel-01-getting-started)
 - Author: [Jordan Wheeler](https://github.com/jordanwheeler7)
 
