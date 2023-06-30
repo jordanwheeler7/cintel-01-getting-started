@@ -17,7 +17,9 @@ body {
   font-family: Arial, sans-serif;
   background-color: #FAFAFA;
   background-image: url("https://www.hommenorthopedics.com/editor-uploads/website-755/multi-sports-blog-1530684776.jpg");
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 
